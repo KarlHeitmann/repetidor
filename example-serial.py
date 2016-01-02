@@ -20,15 +20,29 @@ SUMA = RED5 + ... + RED1 %4lu
 SUMA = BAT5 + ... + BAT1 %4lu
 SUMA = ANG5 + ... + ANG1 %4lu
 SUMA = HTH5 + ... + HTH1 %4lu
+
+
+CARACTERES ENVIADOS: 62
 '''
 
 import serial
-ser = serial.Serial ("/dev/ttyAMA0") #Open named port 
+
+MODO=1
+
+ser = serial.Serial ("/dev/ttyAMA0", timeout=0.1) #Open named port 
 ser.baudrate = 4800                  #Set baud rate to 9600
-data = ser.read(42)
-for i in range(len(data)):
-    print ord(data[i])
-    #print data.decode('hex')
+while(True):
+    ser.flush()
+    cadena = ''
+    data = ser.read(100)
+    for i in range(len(data)):
+        if MODO == 0:
+            cadena = cadena + data[i] + ' '
+        elif MODO == 1:
+            cadena = cadena + str(ord(data[i])) + ' '
+
+    print len(data)
+    print cadena
     
 
 #ser.write(data)                      #Send back the received data
