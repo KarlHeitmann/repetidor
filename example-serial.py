@@ -29,20 +29,14 @@ import serial
 
 MODO=1
 
-ser = serial.Serial ("/dev/ttyAMA0", timeout=0.1) #Open named port 
+ser = serial.Serial ("/dev/ttyAMA0", timeout=0.5) #Open named port 
 ser.baudrate = 4800                  #Set baud rate to 9600
 while(True):
     ser.flush()
     cadena = ''
     data = ser.read(100)
-    for i in range(len(data)):
-        if MODO == 0:
-            cadena = cadena + data[i] + ' '
-        elif MODO == 1:
-            cadena = cadena + str(ord(data[i])) + ' '
-
     print len(data)
-    print cadena
+    print data.encode('hex')
     
 
 #ser.write(data)                      #Send back the received data
