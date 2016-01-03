@@ -1,16 +1,27 @@
 import subprocess
 import time
 
-#programa = ['/usr/bin/octave']
-programa = ['/usr/bin/octave', '-i']
+programa = ['/usr/bin/gnuplot']
 
 p=subprocess.Popen(programa,stdin=subprocess.PIPE,stdout=subprocess.PIPE)
 
-frase="x=[1 2 3];\n"
+frase="plot '-' using 1:2\n"
 print >>p.stdin, frase
-frase="y=[1 2 3];\n"
+frase="1 0\n"
 print >>p.stdin, frase
-frase="plot(x,y);\n"
+frase="2 9\n"
+print >>p.stdin, frase
+frase="3 2\n"
+print >>p.stdin, frase
+frase="4 3\n"
+print >>p.stdin, frase
+frase="5 5\n"
+print >>p.stdin, frase
+frase="6 7\n"
+print >>p.stdin, frase
+frase="7 2\n"
+print >>p.stdin, frase
+frase="e\n"
 print >>p.stdin, frase
 
 time.sleep(5)
