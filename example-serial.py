@@ -38,17 +38,17 @@ while(True):
     cadena = ''
     data = ser.read(100)
     data_hex = data.encode('hex')
-    data_parser["SYSTEM"] = data_hex[0:3]
-    data_parser["START"] = data_hex[4:7]
-    data_parser["CONECT"] = data_hex[8:11]
-    data_parser["PERF"] = data_hex[12:19]
-    data_parser["PWR"] = data_hex[20:26]
-    data_parser["PERV"] = data_hex[27:34]
-    data_parser["PFR"] = data_hex[35:40]
-    data_parser["RED"] = data_hex[41:45]
-    data_parser["BAT"] = data_hex[46:50]
-    data_parser["ANG"] = data_hex[51:55]
-    data_parser["HTH"] = data_hex[56:60]
+    data_parser["SYSTEM"] = data[0:3]
+    data_parser["START"] = data[4:7]
+    data_parser["CONECT"] = data[8:11]
+    data_parser["PERF"] = data[12:19]
+    data_parser["PWR"] = data[20:26]
+    data_parser["PERV"] = data[27:34]
+    data_parser["PFR"] = data[35:40]
+    data_parser["RED"] = data[41:45]
+    data_parser["BAT"] = data[46:50]
+    data_parser["ANG"] = data[51:55]
+    data_parser["HTH"] = data[56:60]
     print len(data)
     print data_hex
     print len(data_hex)
