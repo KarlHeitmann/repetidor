@@ -39,19 +39,18 @@ class Simulador:
         cuenta_linea=0
         for line in self.f:
             if ((cuenta_linea % 4)==1):
-                self.data_parser["SYSTEM"] = line[0:3].encode('hex')
-                self.data_parser["START"] = line[4:7].encode('hex')
-                self.data_parser["CONECT"] = line[8:11].encode('hex')
-                self.data_parser["PERF"] = line[12:19].encode('hex')
-                self.data_parser["PWR"] = line[20:26].encode('hex')
-                self.data_parser["PERV"] = line[27:34].encode('hex')
-                self.data_parser["PFR"] = line[35:40].encode('hex')
-                self.data_parser["RED"] = line[41:45].encode('hex')
-                self.data_parser["BAT"] = line[46:50].encode('hex')
-                self.data_parser["ANG"] = line[51:55].encode('hex')
-                self.data_parser["HTH"] = line[56:60].encode('hex')
-                print line
-                print self.data_parser
+                self.data_parser["SYSTEM"] = line[0*2:2*3].decode('hex')
+                self.data_parser["START"] = line[4*2:2*7].decode('hex')
+                self.data_parser["CONECT"] = line[8*2:2*11].decode('hex')
+                self.data_parser["PERF"] = line[12*2:2*19].decode('hex')
+                self.data_parser["PWR"] = line[20*2:2*26].decode('hex')
+                self.data_parser["PERV"] = line[27*2:2*34].decode('hex')
+                self.data_parser["PFR"] = line[35*2:2*40].decode('hex')
+                self.data_parser["RED"] = line[41*2:2*45].decode('hex')
+                self.data_parser["BAT"] = line[46*2:2*50].decode('hex')
+                self.data_parser["ANG"] = line[51*2:2*55].decode('hex')
+                self.data_parser["HTH"] = line[56*2:2*60].decode('hex')
+                print self.data_parser["PERV"] + "-" + self.data_parser["PFR"] + "-" + self.data_parser["RED"] + "-" + self.data_parser["BAT"] + "-" + self.data_parser["ANG"]
                 if self.n_data == 100:
                     self.plot()
                 self.n_data += 1
