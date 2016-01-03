@@ -26,7 +26,9 @@ CARACTERES ENVIADOS: 62
 '''
 
 import serial
-
+data_parser = {"SYSTEM":0, "START":0, "CONECT":0, "PERF":0,
+        "PWR":0, "PERV":0, "PFR":0, "RED":0, "BAT":0, "ANG":0,
+        "HTH":0,}
 MODO=1
 
 ser = serial.Serial ("/dev/ttyAMA0", timeout=0.5) #Open named port 
@@ -35,8 +37,22 @@ while(True):
     ser.flush()
     cadena = ''
     data = ser.read(100)
+    data_hex = data.encode('hex')
+    data_parser["SYSTEM"] = data_hex[0:3]
+    data_parser["START"] = data_hex[4:7]
+    data_parser["CONECT"] = data_hex[8:11]
+    data_parser["PERF"] = data_hex[12:19]
+    data_parser["PWR"] = data_hex[20:26]
+    data_parser["PERV"] = data_hex[27:34]
+    data_parser["PFR"] = data_hex[35:40]
+    data_parser["RED"] = data_hex[41:45]
+    data_parser["BAT"] = data_hex[46:50]
+    data_parser["ANG"] = data_hex[51:55]
+    data_parser["HTH"] = data_hex[56:60]
     print len(data)
-    print data.encode('hex')
+    print data_hex
+    print len(data_hex)
+    print data_parser
     
 
 #ser.write(data)                      #Send back the received data
