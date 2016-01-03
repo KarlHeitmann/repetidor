@@ -50,7 +50,9 @@ class Simulador:
                 self.data_parser["BAT"] = line[46*2:2*50].decode('hex')
                 self.data_parser["ANG"] = line[51*2:2*55].decode('hex')
                 self.data_parser["HTH"] = line[56*2:2*60].decode('hex')
-                print self.data_parser["PERV"] + "-" + self.data_parser["PFR"] + "-" + self.data_parser["RED"] + "-" + self.data_parser["BAT"] + "-" + self.data_parser["ANG"]
+                print type(self.data_parser["BAT"])
+                print self.data_parser["BAT"]
+                print ord(self.data_parser["BAT"][-2])
                 if self.n_data == 100:
                     self.plot()
                 self.n_data += 1
