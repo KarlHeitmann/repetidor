@@ -24,26 +24,37 @@ SUMA = HTH5 + ... + HTH1 %4lu
 
 CARACTERES ENVIADOS: 62
 '''
-NOMBRE_DESTINO = "respaldo"
-f = open(NOMBRE_DESTINO, 'r')
-cuenta_linea=0
-data_parser={}
-for line in f:
-    if ((cuenta_linea % 4)==1):
-        #print repr(line)
-        print line
-        data_parser["SYSTEM"] = line[0:3].encode('hex')
-        data_parser["START"] = line[4:7].encode('hex')
-        data_parser["CONECT"] = line[8:11].encode('hex')
-        data_parser["PERF"] = line[12:19].encode('hex')
-        data_parser["PWR"] = line[20:26].encode('hex')
-        data_parser["PERV"] = line[27:34].encode('hex')
-        data_parser["PFR"] = line[35:40].encode('hex')
-        data_parser["RED"] = line[41:45].encode('hex')
-        data_parser["BAT"] = line[46:50].encode('hex')
-        data_parser["ANG"] = line[51:55].encode('hex')
-        data_parser["HTH"] = line[56:60].encode('hex')
-        
-        print data_parser
-    cuenta_linea += 1
+import subprocess, time
 
+PROGRAMA = ['/usr/bin/gnuplot']
+NOMBRE_DESTINO = "respaldo"
+class Simulador:
+    def __init__(self):
+        self.gnuplot=subprocess.Popen(PROGRAMA,stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+        self.data_parser={}
+        self.f = open(NOMBRE_DESTINO, 'r')
+    def run(self):
+        cuenta_linea=0
+        for line in self.f:
+            if ((cuenta_linea % 4)==1):
+                #print repr(line)
+                print line
+                self.data_parser["SYSTEM"] = line[0:3].encode('hex')
+                self.data_parser["START"] = line[4:7].encode('hex')
+                self.data_parser["CONECT"] = line[8:11].encode('hex')
+                self.data_parser["PERF"] = line[12:19].encode('hex')
+                self.data_parser["PWR"] = line[20:26].encode('hex')
+                self.data_parser["PERV"] = line[27:34].encode('hex')
+                self.data_parser["PFR"] = line[35:40].encode('hex')
+                self.data_parser["RED"] = line[41:45].encode('hex')
+                self.data_parser["BAT"] = line[46:50].encode('hex')
+                self.data_parser["ANG"] = line[51:55].encode('hex')
+                self.data_parser["HTH"] = line[56:60].encode('hex')
+                print self.data_parser
+            cuenta_linea += 1
+def run():
+    sim = Simulador()
+    sim.run()
+
+if __name__ == '__main__':
+    run()
