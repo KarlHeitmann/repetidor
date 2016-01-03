@@ -1,0 +1,596 @@
+63
+00b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbeb6b5bbb7b8bcb5bfbfbfbfb5b0300
+126
+{'CONECT': '\xdb\xab\xab', 'BAT': '\xeb\xbb\xebk', 'START': 'mVV', 'RED': '\xeb\x8b\xdb\xbb', 'ANG': '\xbb{\x8b\xcb', 'PWR': '\xebkkkk\xab', 'PERF': '\xeb\xdb\xab\xfb\xfb\xfb\xfb', 'SYSTEM': '\x00\xb3Y', 'HTH': '\xfb\xfb\xfb\xfb', 'PFR': '\xebkkk\xab', 'PERV': '\xeb\xdb\xab\xfb\xfb\xfb\xfb'}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbdb5bbb7b8b9b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\x9b[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb6b5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb7b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb7b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbeb7b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8bbb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xbb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbfb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbeb6b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb6b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbdbfb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbeb6b5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8bab5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xab[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbfb5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbdb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb6b5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbdb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbeb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbeb6b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbeb6b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbdb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbdb5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbfb5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb6b5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbfb5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbcb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xcb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbdbfb5bbb7b8bbb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xbb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb7b5bbb7b8bbb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xbb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb8b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb\x8b[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbeb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbeb6b5bbb7b8bab5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x8b\xab[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb6b5bbb7b8bbb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xbb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb8b5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb\x8b[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb8b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb\x8b[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb6b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbfb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbfb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbdbeb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbeb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbeb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb6b5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbfb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8bbb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xbb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbeb5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbdb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb7b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb6b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbeb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb8b5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb\x8b[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb7b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbeb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbeb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb7b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb6b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb7b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8bab5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xab[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbdbfb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbeb6b5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb7b5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb6b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb6b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbeb6b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbeb6b5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbeb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb6b5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbeb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbeb6b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbfb5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbeb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbfb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb6b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbfb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbdb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbeb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbfb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbeb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbdbfb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbdbeb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbfb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbdbdb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbfb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb8b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb\x8b[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb6b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb7b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbdb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbdb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbdbfb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb7b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb6b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbdbfb5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbeb6b5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb6b5bbb7b8bab5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xab[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb7b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb7b5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb6b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbfb5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb7b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb7b5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb7b5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb7b5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbdbfb5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb9b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb\x9b[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbdb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbeb6b5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb6b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbeb6b5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbdbfb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb7b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbdb5bbb7b9b6b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x9bk[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbeb6b5bbb7b8bab5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xab[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb7b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb6b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbeb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbdb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbeb6b5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbcb5bebbbeb7b5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xcb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdb9b5bebbbdbeb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\x9b[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8bbb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xbb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbeb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbdb5bbb7b8bbb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xbb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb6b5bbb7b8b9b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\x9b[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb7b5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbdb5bebbbeb6b5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xdb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbfb5bebbbeb6b5bbb7b8bdb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xebk[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xfb[', 'ANG': '{\x8b\xdb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbfb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbbb5bebbbdbeb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xbb[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbfb5bbb7b8bfb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xfb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xfb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbeb5bbb7b8bcb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xeb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xcb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbab5bebbbdbdb5bbb7b8beb5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xdb\xdb[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xab[', 'ANG': '{\x8b\xeb[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
+62
+b359d96d5656b6dbabab5bebdbabfbfbfbfb5beb6b6b6b6bab5bebdbabfbfbfbfb5beb6b6b6bab5beb8bdbeb5bebbbeb7b5bbb7b9b7b5bfbfbfbfb5b0300
+124
+{'CONECT': '\xab\xab[', 'BAT': '\xbb\xeb{[', 'START': 'VV\xb6', 'RED': '\x8b\xdb\xeb[', 'ANG': '{\x9b{[', 'PWR': 'kkkk\xab[', 'PERF': '\xdb\xab\xfb\xfb\xfb\xfb[', 'SYSTEM': '\xb3Y\xd9', 'HTH': '\xfb\xfb\xfb[', 'PFR': 'kkk\xab[', 'PERV': '\xdb\xab\xfb\xfb\xfb\xfb['}
