@@ -26,17 +26,17 @@ class Simulador:
                 self.n_data += 1
             cuenta_linea += 1
         self.f.close()
-    def plot(self):
+    def plot(self, tipo):
         frase = "plot '-' using 1:2\n"
         print >>self.gnuplot.stdin, frase
-        data = self.data_parser.get_all("BAT")
+        data = self.data_parser.get_all(tipo)
         for i in range(self.n_data):
             frase = str(i) + " " + str(ord(data[i][-2]))
             print >>self.gnuplot.stdin, frase
         frase = "e\n"
         print >>self.gnuplot.stdin, frase
 
-        self.data_parser["SYSTEM"]
+        self.data_parser[tipo]
 def menu():
     os.system('clear')
     print "(1) SYSTEM"
@@ -54,16 +54,26 @@ def menu():
     while(not(resp in OPCIONES_MENU)):
         print "OPCION NO DISPONIBLE"
         resp = raw_input("Escoja su opcion para analizar")
+    return resp
 
 def run():
     sim = Simulador()
     sim.run()
-    data = sim.data_parser
+    todo_data = sim.data_parser
     while(True):
         resp = menu()
+        tipo = raw_input("[G]raficar o [E]nviar? ")
+        if tipo != "g":
+            data=todo_data.get_all(HASH_MENU[resp])
+            for i in range(len(data)):
+                print "ENVIANDO"
+                print str(data[i])
+                os.system("ruby main.rb " + str(ord(data[i][-2])))
+                time.sleep(5)
+        else:
+            sim.plot(HASH_MENU[resp])
+            raw_input("<enter> para continuar")
 
-
-    print str(get_all("SYSTEM"))
 def run_curses():
     sim = Simulador()
     print "DSADAS"
