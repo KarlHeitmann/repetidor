@@ -64,12 +64,15 @@ def run():
         resp = menu()
         tipo = raw_input("[G]raficar o [E]nviar? ")
         if tipo != "g":
-            print "TODO"
-            return
-        sim.plot(HASH_MENU[resp])
-        print resp
-        print str(sim.data_parser.get_all(HASH_MENU[resp]))
-        raw_input()
+            for i in range(5):
+                print "ENVIANDO"
+                os.system("ruby main.rb " + str(i))
+                time.sleep(5)
+        else:
+            sim.plot(HASH_MENU[resp])
+            print resp
+            print str(sim.data_parser.get_all(HASH_MENU[resp]))
+            raw_input()
 
 def run_curses():
     sim = Simulador()
