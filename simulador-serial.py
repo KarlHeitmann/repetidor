@@ -33,11 +33,8 @@ class Simulador:
 
 def run():
     sim = Simulador()
-    '''
     interfaz = Interfaz()
-    interfaz.ask("")
-    '''
-    print "simulando..."
+    interfaz.show("simulando...")
     sim.run()
     resp = raw_input("graficar?")
     if resp == 'y':
