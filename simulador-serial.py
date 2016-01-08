@@ -1,5 +1,6 @@
 import subprocess, time
 import Parser
+import Interfaz
 
 PROGRAMA = ['/usr/bin/gnuplot']
 NOMBRE_DESTINO = "respaldo"
@@ -15,11 +16,6 @@ class Simulador:
         for line in self.f:
             if ((cuenta_linea % 4)==1):
                 self.data_parser.append(line)
-                print type(self.data_parser["BAT"])
-                print self.data_parser["BAT"]
-                print ord(self.data_parser["BAT"][-2])
-                if self.n_data == 100:
-                    self.plot()
                 self.n_data += 1
             cuenta_linea += 1
         self.f.close()
@@ -32,13 +28,22 @@ class Simulador:
             print >>self.gnuplot.stdin, frase
         frase = "e\n"
         print >>self.gnuplot.stdin, frase
-        time.sleep(5)
 
         self.data_parser["SYSTEM"]
 
 def run():
     sim = Simulador()
+    '''
+    interfaz = Interfaz()
+    interfaz.ask("")
+    '''
+    print "simulando..."
     sim.run()
+    resp = raw_input("graficar?")
+    if resp == 'y':
+        sim.plot()
+    raw_input("<enter> para finalizar")
+
 
 if __name__ == '__main__':
     run()
