@@ -22,6 +22,7 @@ class Simulador:
                     self.plot()
                 self.n_data += 1
             cuenta_linea += 1
+        self.f.close()
     def plot(self):
         frase = "plot '-' using 1:2\n"
         print >>self.gnuplot.stdin, frase
