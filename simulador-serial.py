@@ -26,17 +26,17 @@ class Simulador:
                 self.n_data += 1
             cuenta_linea += 1
         self.f.close()
-    def plot(self):
+    def plot(self, tipo):
         frase = "plot '-' using 1:2\n"
         print >>self.gnuplot.stdin, frase
-        data = self.data_parser.get_all("BAT")
+        data = self.data_parser.get_all(tipo)
         for i in range(self.n_data):
             frase = str(i) + " " + str(ord(data[i][-2]))
             print >>self.gnuplot.stdin, frase
         frase = "e\n"
         print >>self.gnuplot.stdin, frase
 
-        self.data_parser["SYSTEM"]
+        self.data_parser[tipo]
 def menu():
     os.system('clear')
     print "(1) SYSTEM"
@@ -62,6 +62,11 @@ def run():
     data = sim.data_parser
     while(True):
         resp = menu()
+        tipo = raw_input("[G]raficar o [E]nviar? ")
+        if tipo != "g":
+            print "TODO"
+            return
+        sim.plot(HASH_MENU[resp])
         print resp
         print str(sim.data_parser.get_all(HASH_MENU[resp]))
         raw_input()
