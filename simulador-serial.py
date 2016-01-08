@@ -54,6 +54,7 @@ def menu():
     while(not(resp in OPCIONES_MENU)):
         print "OPCION NO DISPONIBLE"
         resp = raw_input("Escoja su opcion para analizar")
+    return resp
 
 def run():
     sim = Simulador()
@@ -61,9 +62,10 @@ def run():
     data = sim.data_parser
     while(True):
         resp = menu()
+        print resp
+        print str(sim.data_parser.get_all(HASH_MENU[resp]))
+        raw_input()
 
-
-    print str(get_all("SYSTEM"))
 def run_curses():
     sim = Simulador()
     print "DSADAS"
