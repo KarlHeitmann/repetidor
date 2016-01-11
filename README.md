@@ -10,7 +10,7 @@ la información guardada en una *sesión de grabación* con el grupo electrógen
 
 ## Carpeta *pruebas*
 
-Esta carpeta contiene diferentes archivos que se utilizaron para hacer pruebas básicas en la raspberry pi. La mayoría son archivos de ejemplos descargados de distintos sitios web, por ejemplo: **blink.py**, que hace parpadear un led conectado al pin GPIO 11; **example-curses**, que muestra un ejemplo de como usar la librería *ncurses*; **comunicador**, que muestra un ejemplo de como comunicarse con un subproceso *gnuplot*, etc.
+Esta carpeta contiene diferentes archivos que se utilizaron para hacer pruebas básicas en la raspberry pi. La mayoría son archivos de ejemplos descargados de distintos sitios web, por ejemplo: **blink.py**, que hace parpadear un led conectado al pin GPIO 11; **example-curses.py**, que muestra un ejemplo de como usar la librería *ncurses*; **example-pipas.py**, que muestra un ejemplo de como comunicarse con pipas con un proceso hijo *gnuplot*, etc.
 
 ## Interfaz.py
 
