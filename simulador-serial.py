@@ -68,7 +68,7 @@ def run():
             for i in range(len(data)):
                 print "ENVIANDO"
                 print str(data[i])
-                os.system("ruby main.rb " + str(ord(data[i][-2])))
+                os.system("ruby comunicador.rb " + str(ord(data[i][-2])))
                 time.sleep(5)
         else:
             sim.plot(HASH_MENU[resp])

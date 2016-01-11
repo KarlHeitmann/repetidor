@@ -1,2 +1,0 @@
-rs232 = { baud: 4800, xmit: "PIN_C6", 
-          rcv:"PIN_C7", parity:"N", BITS: 8 }
