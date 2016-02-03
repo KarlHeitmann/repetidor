@@ -4,7 +4,7 @@ import Parser
 import Interfaz
 
 PROGRAMA = ['/usr/bin/gnuplot']
-NOMBRE_DESTINO = "respaldo"
+NOMBRE_DESTINO = "DATA1.txt"
 LIMITE = 100
 
 OPCIONES_MENU = ['1', '2', '3', '4', '5', '6', '7', '8',

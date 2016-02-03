@@ -25,6 +25,8 @@ SUMA = HTH5 + ... + HTH1 %4lu
 CARACTERES ENVIADOS: 62
 '''
 
+NOMBRE_DESTINO = "DATA1.txt"
+
 class Parser:
     def __init__(self, modo):
         self.modo = modo
@@ -33,6 +35,19 @@ class Parser:
         "HTH":[]}
     def append(self, raw):
         if (self.modo == "SIMULAR"):
+            raw = raw.split('*')
+            self.data["SYSTEM"].append(raw[0])
+            self.data["START"].append(raw[1])
+            self.data["CONECT"].append(raw[2])
+            self.data["PERF"].append(raw[3])
+            self.data["PWR"].append(raw[4])
+            self.data["PERV"].append(raw[5])
+            self.data["PFR"].append(raw[6])
+            self.data["RED"].append(raw[7])
+            self.data["BAT"].append(raw[8])
+            self.data["ANG"].append(raw[9])
+            self.data["HTH"].append(raw[10])
+        if (self.modo == "SIMULAR_GARBAGE"):
             self.data["SYSTEM"].append(raw[0*2:2*3].decode('hex'))
             self.data["START"].append(raw[4*2:2*7].decode('hex'))
             self.data["CONECT"].append(raw[8*2:2*11].decode('hex'))
@@ -60,4 +75,45 @@ class Parser:
         return self.data[key][-1]
     def get_all(self, key):
         return self.data[key]
+if __name__ == '__main__':
+    data = Parser("SIMULAR")
+    f = open(NOMBRE_DESTINO, 'r')
+    for line in f:
+        data.append(line)
+    print data.get_all("SYSTEM")
+    print data.get_all("START")
+    print data.get_all("CONECT")
+    print data.get_all("PERF")
+    print data.get_all("PERV")
+    print data.get_all("PFR")
+    print data.get_all("RED")
+    print data.get_all("BAT")
+    print data.get_all("ANG")
+    print data.get_all("HTH")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
