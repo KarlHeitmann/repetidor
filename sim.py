@@ -20,18 +20,13 @@ class Simulador:
     def run(self):
         cuenta_linea=0
         for line in self.f:
-            if ((cuenta_linea % 4)==1):
-                self.data_parser.append(line)
-                self.n_data += 1
+            self.data_parser.append(line)
             cuenta_linea += 1
+            print (json.dumps(self.data_parser.get_last()))
         self.f.close()
 def run():
     sim = Simulador()
     sim.run()
-    todo_data = sim.data_parser
-    data = todo_data.get_hash()
-    print "ENVIANDO"
-    print str(json.dumps(data))
     
     #os.system("ruby comunicador.rb " + str(ord(data)))
     #time.sleep(5)

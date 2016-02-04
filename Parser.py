@@ -33,6 +33,19 @@ class Parser:
         self.data = {"SYSTEM":[], "START":[], "CONECT":[], "PERF":[],
         "PWR":[], "PERV":[], "PFR":[], "RED":[], "BAT":[], "ANG":[],
         "HTH":[]}
+        self.last = {}
+    def refresh_last(self):
+        self.last["SYSTEM"] = self.data["SYSTEM"][-1]
+        self.last["START"] = self.data["START"][-1]
+        self.last["CONECT"] = self.data["CONECT"][-1]
+        self.last["PERF"] = self.data["PERF"][-1]
+        self.last["PWR"] = self.data["PWR"][-1]
+        self.last["PERV"] = self.data["PERV"][-1]
+        self.last["PFR"] = self.data["PFR"][-1]
+        self.last["RED"] = self.data["RED"][-1]
+        self.last["BAT"] = self.data["BAT"][-1]
+        self.last["ANG"] = self.data["ANG"][-1]
+        self.last["HTH"] = self.data["HTH"][-1]
     def append(self, raw):
         if (self.modo == "SIMULAR"):
             raw = raw.split('*')
@@ -47,6 +60,7 @@ class Parser:
             self.data["BAT"].append(raw[8])
             self.data["ANG"].append(raw[9])
             self.data["HTH"].append(raw[10])
+            self.refresh_last()
         if (self.modo == "SIMULAR_GARBAGE"):
             self.data["SYSTEM"].append(raw[0*2:2*3].decode('hex'))
             self.data["START"].append(raw[4*2:2*7].decode('hex'))
@@ -59,6 +73,7 @@ class Parser:
             self.data["BAT"].append(raw[46*2:2*50].decode('hex'))
             self.data["ANG"].append(raw[51*2:2*55].decode('hex'))
             self.data["HTH"].append(raw[56*2:2*60].decode('hex'))
+            self.refresh_last()
         elif (self.modo == "RECIBIR"):
             self.data["SYSTEM"] = raw[0:3]
             self.data["START"] = raw[4:7]
@@ -71,12 +86,15 @@ class Parser:
             self.data["BAT"] = raw[46:50]
             self.data["ANG"] = raw[51:55]
             self.data["HTH"] = raw[56:60]
+            self.refresh_last()
     def __getitem__(self, key):
         return self.data[key][-1]
     def get_all(self, key):
         return self.data[key]
     def get_hash(self):
         return self.data
+    def get_last(self):
+        return self.last
 if __name__ == '__main__':
     data = Parser("SIMULAR")
     f = open(NOMBRE_DESTINO, 'r')
