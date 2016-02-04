@@ -75,6 +75,8 @@ class Parser:
         return self.data[key][-1]
     def get_all(self, key):
         return self.data[key]
+    def get_hash(self):
+        return self.data
 if __name__ == '__main__':
     data = Parser("SIMULAR")
     f = open(NOMBRE_DESTINO, 'r')

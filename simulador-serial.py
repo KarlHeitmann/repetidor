@@ -8,7 +8,7 @@ NOMBRE_DESTINO = "DATA1.txt"
 LIMITE = 100
 
 OPCIONES_MENU = ['1', '2', '3', '4', '5', '6', '7', '8',
-            '9', 'a']
+            '9', 'a', 'b']
 HASH_MENU = {'1':"SYSTEM", '2':"START", '3':"CONNECT", '4':"PERF",
         '5':"PWR", '6':"PERV", '7':"PFR", '8':"RED", '9':"BAT", 'a':"ANG",
         'b':"HTH"}
