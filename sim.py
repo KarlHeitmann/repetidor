@@ -22,7 +22,10 @@ class Simulador:
         for line in self.f:
             self.data_parser.append(line)
             cuenta_linea += 1
-            print (json.dumps(self.data_parser.get_last()))
+            paquete = json.dumps(self.data_parser.get_last())
+            callstr = "ruby comunicador.rb " + '\'' + paquete + '\''
+            os.system(callstr)
+            time.sleep(5)
         self.f.close()
 def run():
     sim = Simulador()
