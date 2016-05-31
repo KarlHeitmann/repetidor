@@ -23,7 +23,11 @@ SUMA = HTH5 + ... + HTH1 %4lu
 
 
 CARACTERES ENVIADOS: 62
+
+
 '''
+# TODO limitar el tamanio de los arreglos, para que cuando el PC este conectado
+# por dias, que no se vaya a quedar sin memoria
 
 NOMBRE_DESTINO = "DATA1.txt"
 

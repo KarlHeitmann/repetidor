@@ -68,8 +68,9 @@ def run():
             for i in range(len(data)):
                 print "ENVIANDO"
                 print str(data[i])
-                os.system("ruby comunicador.rb " + str(ord(data[i][-2])))
-                time.sleep(5)
+                if str(data[i]) != "0":
+                  os.system("ruby comunicador.rb " + str(ord(data[i][-2])))
+                  time.sleep(5)
         else:
             sim.plot(HASH_MENU[resp])
             raw_input("<enter> para continuar")

@@ -23,6 +23,7 @@ class Simulador:
             self.data_parser.append(line)
             cuenta_linea += 1
             paquete = json.dumps(self.data_parser.get_last())
+            print paquete
             callstr = "ruby comunicador.rb " + '\'' + paquete + '\''
             os.system(callstr)
             time.sleep(5)
