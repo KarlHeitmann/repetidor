@@ -36,7 +36,8 @@ ser.baudrate = 4800                  #Set baud rate to 9600
 while(True):
     ser.flush()
     cadena = ''
-    data = ser.read(100)
+    data = ser.read(300)
+    print data
     data_hex = data.encode('hex')
     data_parser["SYSTEM"] = data[0:3]
     data_parser["START"] = data[4:7]
