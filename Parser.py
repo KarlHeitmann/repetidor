@@ -99,6 +99,8 @@ class Parser:
         return self.data
     def get_last(self):
         return self.last
+    def tweak(self, k, v):
+        self.last[k] = self.last[k] + v
 if __name__ == '__main__':
     data = Parser("SIMULAR")
     f = open(NOMBRE_DESTINO, 'r')

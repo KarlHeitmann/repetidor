@@ -12,6 +12,23 @@ OPCIONES_MENU = ['1', '2', '3', '4', '5', '6', '7', '8',
 HASH_MENU = {'1':"SYSTEM", '2':"START", '3':"CONNECT", '4':"PERF",
         '5':"PWR", '6':"PERV", '7':"PFR", '8':"RED", '9':"BAT", 'a':"ANG",
         'b':"HTH"}
+
+LLAVES = [
+    "SYSTEM",
+    "START",
+    "CONNECT",
+    "PERF",
+    "PWR",
+    "PERV",
+    "PFR",
+    "RED",
+    "BAT",
+    "ANG",
+    "HTH"
+]
+
+mod_key = LLAVES[3]
+mod_val = 0
 class Simulador:
     def __init__(self):
         self.data_parser=Parser.Parser("SIMULAR")
@@ -22,6 +39,8 @@ class Simulador:
         for line in self.f:
             self.data_parser.append(line)
             cuenta_linea += 1
+            self.data_parser.tweak(mod_key, mod_val)
+            mod_val = cuenta_linea
             paquete = json.dumps(self.data_parser.get_last())
             print paquete
             callstr = "ruby comunicador.rb " + '\'' + paquete + '\''

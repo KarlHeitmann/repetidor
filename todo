@@ -1,0 +1,10 @@
+la base max232.
+en la misma base hacer un puente, y otro puente entre pin 11 y pin 14
+por si estuvieran cruzados
+puente entre 12 y 14, otro entre 12 y 13
+12, pin Rx, conectar a Tx raspberry
+11, pin Tx, 
+
+sacar el chip, con alambre telefónico y probar
+
+
