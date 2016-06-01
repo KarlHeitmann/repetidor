@@ -39,8 +39,8 @@ class Simulador:
         for line in self.f:
             self.data_parser.append(line)
             cuenta_linea += 1
-            self.data_parser.tweak(mod_key, mod_val)
             mod_val = cuenta_linea
+            self.data_parser.tweak(mod_key, mod_val)
             paquete = json.dumps(self.data_parser.get_last())
             print paquete
             callstr = "ruby comunicador.rb " + '\'' + paquete + '\''

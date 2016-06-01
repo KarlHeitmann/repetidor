@@ -26,35 +26,31 @@ CARACTERES ENVIADOS: 62
 '''
 
 import serial
+import os
+import subprocess, time
+import Parser
+import Interfaz
+import json
 data_parser = {"SYSTEM":0, "START":0, "CONECT":0, "PERF":0,
         "PWR":0, "PERV":0, "PFR":0, "RED":0, "BAT":0, "ANG":0,
         "HTH":0,}
 MODO=1
 
-ser = serial.Serial ("/dev/ttyAMA0", timeout=0.5) #Open named port 
+ser = serial.Serial ("/dev/ttyAMA0", timeout=2.5) #Open named port 
 ser.baudrate = 4800                  #Set baud rate to 9600
+data_parser=Parser.Parser("SIMULAR")
 while(True):
     ser.flush()
     cadena = ''
-    data = ser.read(300)
+    data = ser.read(60)
     print data
-    data_hex = data.encode('hex')
-    data_parser["SYSTEM"] = data[0:3]
-    data_parser["START"] = data[4:7]
-    data_parser["CONECT"] = data[8:11]
-    data_parser["PERF"] = data[12:19]
-    data_parser["PWR"] = data[20:26]
-    data_parser["PERV"] = data[27:34]
-    data_parser["PFR"] = data[35:40]
-    data_parser["RED"] = data[41:45]
-    data_parser["BAT"] = data[46:50]
-    data_parser["ANG"] = data[51:55]
-    data_parser["HTH"] = data[56:60]
     print len(data)
-    print data_hex
-    print len(data_hex)
-    print data_parser
-    
 
-#ser.write(data)                      #Send back the received data
+    if len(data) != 0:
+        data_parser.append(data)
+        #cuenta_linea += 1
+        paquete = json.dumps(data_parser.get_last())
+        print paquete
+        callstr = "ruby comunicador.rb " + '\'' + paquete + '\''
+        os.system(callstr)
 ser.close()   
