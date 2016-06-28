@@ -8,3 +8,5 @@ puente entre 12 y 14, otro entre 12 y 13
 sacar el chip, con alambre telefónico y probar
 
 
+pin 11 va al 25 Tx de microchip
+pin 12 va al 26 Rx de microchip
