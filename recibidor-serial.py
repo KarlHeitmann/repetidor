@@ -26,7 +26,7 @@ CARACTERES ENVIADOS: 62
 '''
 
 import serial
-import os
+import os, sys
 import subprocess, time
 import Parser
 import Interfaz
@@ -40,17 +40,22 @@ ser = serial.Serial ("/dev/ttyAMA0", timeout=2.5) #Open named port
 ser.baudrate = 4800                  #Set baud rate to 9600
 data_parser=Parser.Parser("SIMULAR")
 while(True):
-    ser.flush()
+    ser.flushInput()
     cadena = ''
-    data = ser.read(60)
+    data = ser.read(61)
     print data
     print len(data)
 
     if len(data) != 0:
-        data_parser.append(data)
-        #cuenta_linea += 1
-        paquete = json.dumps(data_parser.get_last())
-        print paquete
-        callstr = "ruby comunicador.rb " + '\'' + paquete + '\''
-        os.system(callstr)
+        try:
+            data_parser.append(data)
+            #cuenta_linea += 1
+            paquete = json.dumps(data_parser.get_last())
+            print paquete
+            callstr = "ruby comunicador.rb " + '\'' + paquete + '\''
+            os.system(callstr)
+            print "EXITO"
+        except:
+            e = sys.exc_info()[0]
+            print e
 ser.close()   
